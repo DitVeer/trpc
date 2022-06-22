@@ -1,0 +1,79 @@
+.log a {
+    color: #5975c5;
+    font-weight: bold;
+    text-decoration: blink;
+    
+    padding: 5px;
+    width: 100%;
+}
+.log button{
+	padding: 5px;
+	margin: 5px;
+	width: 100%;
+	height: 40px;
+	border-radius: 10px;
+
+	
+}
+.main{
+	margin-top: 25px;
+	width: 400px;
+	display: flex;
+
+}
+body{
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613687998_33-p-fon-dlya-prezentatsii-poezd-42.jpg);
+}
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	text-align: center;
+	border-collapse: separate;
+	border-spacing: 3px;
+	background: #d8d8d8;
+	color: #575d57;
+	border: 4px solid #ECE9E0;
+	border-radius: 10px;
+	width: 95%;
+	margin: auto;
+
+}
+.hist th{
+	width: 20%;
+}
+.hist-body td{
+	width: 20%;
+}
+.hist{
+	table-layout: fixed;
+}
+.hist-body{
+	height: 250px;
+	overflow-x: auto;
+}
+.profile_data{
+	font-size: 18px;
+	font-family: sans-serif;
+	width: 400px;
+	padding-left: 40px;
+	line-height: 75%;
+}
+.log{
+	width: 200px;
+	float: right;
+}
+.photo{
+
+	padding-left: 40px;
+}
+.cost{
+	font-weight: bold;
+	
+}
+th {
+	font-size: 24px;
+	padding: 5px;
+}
+td {
+	background: #f2d7c1;
+	padding: 10px;
+}

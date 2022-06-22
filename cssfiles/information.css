@@ -1,0 +1,33 @@
+body{
+	background: url(https://avatars.mds.yandex.net/get-zen_doc/3489860/pub_60d13ba7b2ba075e6555067b_60d13c9c41aedb12d47b4193/scale_1200) no-repeat;
+	background-size: 100%;
+	font-weight: bold;
+	font-size: 16px;
+}
+.inform{
+	position: absolute;
+	top: 20%;
+	width: 200px;
+}
+button{
+	padding: 5px;
+	margin: 5px;
+	width: 100%;
+	height: 40px;
+	border-radius: 10px;
+
+}
+a{
+	color: #5975c5;
+    font-weight: bold;
+    text-decoration: blink;
+    
+    padding: 5px;
+    width: 100%;
+}
+.main{
+	margin-top: 25px;
+	width: 100px;
+	display: flex;
+
+}
